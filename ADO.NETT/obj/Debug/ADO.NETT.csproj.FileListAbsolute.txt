@@ -1,0 +1,22 @@
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\bin\Debug\ADO.NETT.exe.config
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\bin\Debug\ADO.NETT.exe
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\bin\Debug\ADO.NETT.pdb
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.csprojAssemblyReference.cache
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.Form1.resources
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.Properties.Resources.resources
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.csproj.GenerateResource.cache
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.csproj.CoreCompileInputs.cache
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.exe
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.pdb
+C:\Users\AYBU\Desktop\PROJELER\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.Form2.resources
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\bin\Debug\ADO.NETT.exe.config
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\bin\Debug\ADO.NETT.exe
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\bin\Debug\ADO.NETT.pdb
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.Form1.resources
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.Form2.resources
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.Properties.Resources.resources
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.exe
+C:\Users\Computer\Desktop\İŞKUR YAPILANLAR\ADO.NETT\ADO.NETT\obj\Debug\ADO.NETT.pdb
