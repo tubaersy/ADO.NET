@@ -11,7 +11,7 @@ namespace ADO.NETT
     class DbClass
     {
         // SqlConnection cnn = new SqlConnection(@"Data Source=your connection;initial catalog=your catalog;user id=sa;password=123");
-        SqlConnection cnn = new SqlConnection(@ "Data Source=your connection;initial catalog=your catalog;integrated security=True");
+        SqlConnection cnn = new SqlConnection(@"Data Source=your connection;initial catalog=your catalog;integrated security=True");
         public DataTable TabloGetir(string sql, params SqlParameter[] prms)
         {
             // komut oluşturup connectiona bağlıyoruz
